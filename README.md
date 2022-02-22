@@ -2,7 +2,7 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
-
+[![Build Status](https://dev.azure.com/yuyuhlaingconnect/User11/_apis/build/status/Hninwint.calculator?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/yuyuhlaingconnect/User11/_build/latest?definitionId=62&branchName=refs%2Fpull%2F2%2Fmerge)
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
